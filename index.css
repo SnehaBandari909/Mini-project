@@ -42,7 +42,7 @@ p{
   }
 
   .tabcontent {
-      display: none;
+    display: none;
     padding: 6px 12px;
     animation: fadeEffect 1s;
   }
